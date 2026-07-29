@@ -16,7 +16,6 @@ Focus:     Web Development · Systems Architecture
 Stack:     Vue.js · React · TypeScript · Laravel · SQL
 Tools:     Docker · Nix · Git · CI/CD
 Status:    Compiling ideas into working software...
-Uptime:    Since 2022, and counting
 ```
 
 <div align="center">

@@ -26,12 +26,12 @@ Uptime:    Since 2022, and counting
 </div>
 
 - 🎓 Software Engineering student @ Collegium Witelona State University
-- 💻 Frontend & backend developer — I like building the whole stack, not just half of it
+- 💻 Frontend & backend developer - I like building the whole stack, not just half of it
 - 🏗️ I care about **architecture first**: the right structure now saves you from rewriting everything later
 - 🔍 Analytical thinker with a soft spot for elegant, minimal solutions
-- ♟️ Chess player & LeetCode grinder — pattern recognition is a lifestyle
+- ♟️ Chess player & LeetCode enjoyer
 - 🐧 I distro-hop, rice my dotfiles, and treat my terminal like a personal art project
-- 🌍 Speak Ukrainian, Russian, Polish and English — bugs are multilingual too
+- 🌍 Speak Ukrainian, Russian, Polish and English - bugs are multilingual too
 
 <div align="center">
 
@@ -121,8 +121,8 @@ Uptime:    Since 2022, and counting
 hobbies:
   - Solving problems (the harder, the better)
   - Ricing Linux setups & tweaking dotfiles
-  - Minecraft redstone engineering (basically circuit design, don't @ me)
-  - Factory-building games (I promise it's research for system design)
+  - Minecraft redstone engineering
+  - Factory-building games
   - Chess & LeetCode
   - Reading about and contributing to open source
 ```
@@ -152,6 +152,6 @@ hobbies:
   <a href="https://github.com/Mik-813"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<sub>⭐ from Poland — thanks for stopping by, now go star a repo or two.</sub>
+<sub>⭐ from Poland - thanks for stopping by, now go star a repo or two.</sub>
 
 </div>

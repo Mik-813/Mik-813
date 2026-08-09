@@ -24,13 +24,12 @@ Status:    Compiling ideas into working software...
 
 </div>
 
-- 🎓 Software Engineering student @ Collegium Witelona State University
-- 💻 Frontend & backend developer - I like building the whole stack, not just half of it
-- 🏗️ I care about **architecture first**: the right structure now saves you from rewriting everything later
+- 🎓 Software Engineering student at Collegium Witelona State University
+- 💻 Frontend & backend developer
 - 🔍 Analytical thinker with a soft spot for elegant, minimal solutions
 - ♟️ Chess player & LeetCode enjoyer
-- 🐧 I distro-hop, rice my dotfiles, and treat my terminal like a personal art project
-- 🌍 Speak Ukrainian, Russian, Polish and English - bugs are multilingual too
+- 🐧 Distro-hopper, dotfile ricer, terminal artist
+- 🌍 Ukrainian, Russian, Polish and English speaker
 
 <div align="center">
 
